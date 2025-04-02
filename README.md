@@ -1,5 +1,9 @@
-# "Submarine system"
-Files for the project "Submarine system". This project is written in C# and has been designed using UML graph. It uses aggregation, realization and inheritance.  
+
+# Submarine system
+Files for a project simulating submarine operations. This project is written in C# and has been designed using UML graph. It uses aggregation, realization and inheritance.  	
+Project is created with Visual Studio 2022.
+
+
 <p align="center">UML diagram</p>  
 
 ![Opis obrazka](images/UML.png)
